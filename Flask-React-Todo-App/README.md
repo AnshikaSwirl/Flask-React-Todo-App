@@ -10,7 +10,7 @@ This repository contains the code for a full stack web application built with Fl
 
 ## Installation
 
-1. Clone the repository: `git clone https://github.com/your-username/Flask-React-Full-Stack-App.git`
+1. Clone the repository: `git clone https://github.com/AnshikaSwirl/Flask-React-Todo-App/tree/main/Flask-React-Todo-App`
 2. Install the required dependencies:
     - For the Flask server, navigate to the `server` directory and run `pip install -r requirements.txt`
     - For the React client, navigate to the `client` directory and run `npm install`

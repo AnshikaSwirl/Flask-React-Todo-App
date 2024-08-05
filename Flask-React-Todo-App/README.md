@@ -23,7 +23,7 @@ This repository contains the code for a full stack web application built with Fl
 
 2. Start the React client development server:
     - Navigate to the `client` directory
-    - Run `npm start`
+    - Run `npm run dev`
 
 3. Open your browser and visit `http://localhost:3000` to access the application.
 
